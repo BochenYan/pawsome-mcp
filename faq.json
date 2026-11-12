@@ -1,0 +1,8 @@
+[
+  {"question": "What vaccinations are required?", "answer": "Dogs need rabies, DHPP and bordetella. Cats need rabies and FVRCP. Records must be current at check-in."},
+  {"question": "What are your check-in and check-out times?", "answer": "Check-in is from 9am to 6pm. Check-out is by 11am. A late check-out fee may apply after noon."},
+  {"question": "Can I bring my pet's own food?", "answer": "Yes. We recommend bringing their usual food to avoid stomach upset. Label each portion with your pet's name."},
+  {"question": "How do I cancel a booking?", "answer": "Cancel at least 48 hours before check-in for a full refund. Later cancellations are charged one night."},
+  {"question": "Do you give medication?", "answer": "Yes, oral medication is given at no extra charge. Bring it in the original container with written instructions."},
+  {"question": "Are dogs and cats kept separately?", "answer": "Yes. Cats stay in a quiet room away from the dog area."}
+]
